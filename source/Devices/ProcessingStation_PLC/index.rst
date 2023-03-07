@@ -8,7 +8,7 @@ Processing station
 
 ----------------------------------------------------------------------------------------------
 
-See the `fischertechnik website <https://www.fischertechnik.de/en/products/simulating/training-models/536632-sim-multi-processing-station-with-oven-24v>`_ for more information about this station. 
+See the `fischertechnik website <https://www.fischertechnikwebshop.com/en-gb/24-vdc-en-gb>`_ for more information about this station. 
 
 ----------------------------------------------------------------------------------------------
 
